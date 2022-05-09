@@ -8,7 +8,7 @@
 
 1) Clone the Repository 
 
-2) Install the dependencies from the requirements.txt file via pip install -r requirements.txt 
+2) Install all the dependencies - there is no requirements.txt file yet as there are many modules that conflict with each others versions.
 
 3) Run the run.py file 
 
