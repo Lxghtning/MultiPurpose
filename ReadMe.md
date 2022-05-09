@@ -10,7 +10,9 @@
 
 2) Install all the dependencies - there is no requirements.txt file yet as there are many modules that conflict with each others versions.
 
-3) Run the run.py file 
+3) Change the Guild names, Role ID's etc..
+
+4) Run the run.py file 
 
 NOTE:- Make sure to change the youtubedata.json as per your channel data and config.json as per your bot's token
 
