@@ -720,4 +720,4 @@ async def snipe(message):
 
 bot.loop.create_task(setupgw())
 bot.loop.create_task(setup())
-bot.run('OTU4Njc5NjkzMzk2MTY0NjM4.YkQ2Cg.PwYtlYKuRqUt2nio1YBq7_ZMIsA')
+bot.run('Your Token Here')
