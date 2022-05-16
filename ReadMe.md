@@ -12,9 +12,9 @@
 
 3) Change the Guild names, Role ID's etc..
 
-4) Run the run.py file 
+4) Run the run.py file and put in your token
 
-NOTE:- Make sure to change the youtubedata.json as per your channel data and config.json as per your bot's token
+NOTE:- Make sure to change the youtubedata.json and files in the music folder as per your channel data and config.json as per your bot's token
 
 
 Made By **Lxghtning~#0388**.
