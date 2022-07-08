@@ -48,7 +48,7 @@ class Music(commands.Cog):
                                             host= 'losingtime.dpaste.org',
                                             port= 2124,
                                             password= "SleepingOnTrains",
-                                            spotify_client=spotify.SpotifyClient(client_id= "81c29ce437d24e14aca5cbf84c50419e", client_secret= "7b0d39bfe1a54a5096ab6b7f73e91907"))
+                                            spotify_client=spotify.SpotifyClient(client_id= "ur id", client_secret= "ur secret"))
 
     @commands.Cog.listener()
     async def on_wavelink_node_ready(self, node: wavelink.Node):
