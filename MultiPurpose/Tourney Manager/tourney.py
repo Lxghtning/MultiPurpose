@@ -6,8 +6,8 @@ import aiosqlite
 from nextcord import Embed
 from Views.confirm import Confirm
 
-my_username = '_Lxghtning'
-my_api_key = 'W43AOHwes2zSDKm4AVoJPlHEe1nqigaP7IBgarJr'
+my_username = 'yourchallongeusername'
+my_api_key = 'yourchallongeapikey'
 
 class Tourney(commands.Cog):
     def __init__(self, bot):
